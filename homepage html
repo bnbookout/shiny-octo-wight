@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel='stylesheet' href='style.css'/>
+	<script src='script.js'></script>
+</head>
+<body>
+    <title>The Life and Times of Brett</title>
+    <img src="http://upload.wikimedia.org/wikipedia/commons/9/92/Guinness.jpg" width="100" />
+    <div class="home">Home</div>
+    <div class="blog">Blog</div>
+    <div class="Projects">Projects</div>
+    <div class="About">About Me</div>
+    <p>This is my first webpage! I am having a splendid time learning to code! </p>
+    <p>
+        <table border="2px black">
+            <th colspan="3">How to Brew Great Beer!</thead>
+            <tbody>
+                <tr>
+                     <td>Heat water <img src="http://4.bp.blogspot.com/-xFsbvqrhRQc/UD1ksMm-X2I/AAAAAAAADXo/5xUIz_pxwPs/s1600/BIAB+2.JPG" width="200"/></td>
+                     <td>Add grain <img src="http://1.bp.blogspot.com/-m5SAaeWk_j4/T4yl4UBuLJI/AAAAAAAACbE/S_FM-w3Ai7o/s320/Adding+Oats+to+the+Boil.JPG" width="230" /></td>
+                     <td>Mash - let grain steep in water<img src="http://drinks.seriouseats.com/images/20110429-149692-Mash.jpg" width="200" /></td>
+                </tr>
+                <tr>
+                    <td>Begin to circulate the wort <img src="http://www.thedoghouse.net/homebrew/sparge_wand.jpg" width="200" /></td>
+                    <td>Bring wort to a boil <img src="http://4.bp.blogspot.com/_7Ue6KBH0xVw/S94u1t3CF1I/AAAAAAAABoY/J1i21O3Rq6Q/s1600/Wort+Boiling.jpg" width="200" /></td>
+                    <td>Begin adding hops for bittering<img src="http://2.bp.blogspot.com/_7Ue6KBH0xVw/S94u2kEL7UI/AAAAAAAABog/taExtB3m9Bw/s1600/Adding+Hops+to+Boil.jpg" width="200" /></td>
+                </tr>
+            </tbody> 
+        </table>
+    </p>
+    <p id="pups">Puppies!<img src="https://scontent-b-atl.xx.fbcdn.net/hphotos-ash3/t1/p403x403/1661926_10104144795074320_1944516305_n.jpg" width="150" /> <img src="https://scontent-a-atl.xx.fbcdn.net/hphotos-prn2/t1/1422446_10103825490398450_1444162437_n.jpg" width="150" /></p>
+    <footer>This page was built by Brett Bookout. All rights reserved.</footer>
+</body>
+</html>
